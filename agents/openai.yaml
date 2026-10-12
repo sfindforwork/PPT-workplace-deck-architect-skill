@@ -1,0 +1,5 @@
+interface:
+  display_name: "Workplace Deck Architect"
+  short_description: "Turn structured source documents into clear workplace H5 presentations"
+  brand_color: "#2859D5"
+  default_prompt: "Use $workplace-deck-architect to turn this source document into a clear, interactive workplace H5 presentation by default; use PPT only when explicitly requested."
